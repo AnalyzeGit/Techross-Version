@@ -1,0 +1,5 @@
+outs:
+- md5: 2c4ba2d9c593915d95b80dbb7aad8b43
+  size: 585483707
+  hash: md5
+  path: tro_model
