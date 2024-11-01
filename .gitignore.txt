@@ -1,0 +1,5 @@
+# Jupyter Notebook 체크포인트 제외
+.ipynb_checkpoints/
+
+# cache 제외
+__pycahce__
